@@ -90,7 +90,7 @@ const About = () => (
               />
             </motion.div>
             <div className="white-blur"></div>
-            <h3 style={{color: '#6E747B', fontFamily: 'Space Grotesk', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
+            <h3 style={{ color: '#6E747B', fontFamily: 'Space Grotesk', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
               COMPANY SEARCH
             </h3>
 
@@ -100,7 +100,7 @@ const About = () => (
                 placeholder="Search..."
                 className="border border-gray-500 rounded w-full p-2"
               />
-              <div className=" h-10 w-19 bg-white border-gray-500 p-1 rounded">
+              <div className=" h-10 w-19 bg-white p-1 rounded">
                 <img
                   src="purplesearch.png"
                   alt="Search Icon"
@@ -143,9 +143,9 @@ const About = () => (
               <input
                 type="text"
                 placeholder="Search..."
-                className="h-10 w-19 bg-white border-gray-500 p-1 rounded"
+                className="border border-gray-500 rounded w-full p-2"
               />
-              <div className=" h-10 w-19 bg-black p-1 rounded">
+              <div className=" h-10 w-19 bg-white p-1 rounded">
                 <img
                   src="bluesearch.png"
                   alt="Search Icon"
