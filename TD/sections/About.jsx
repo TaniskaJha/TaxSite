@@ -45,7 +45,7 @@ const About = () => (
               />
             </motion.div>
             <div className="white-blur"></div>
-            <h3 style={{ color: '#000', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
+            <h3 style={{ color: '#6E747B', fontFamily: 'Space Grotesk', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
               GST SEARCH
             </h3>
 
@@ -55,7 +55,7 @@ const About = () => (
                 placeholder="Search..."
                 className="border border-gray-500 rounded w-full p-2"
               />
-              <div className=" h-10 w-19 bg-black p-1 rounded">
+              <div className=" h-10 w-19 bg-white border-gray-500 p-1 rounded">
                 <img
                   src="pinksearch.png"
                   alt="Search Icon"
@@ -90,7 +90,7 @@ const About = () => (
               />
             </motion.div>
             <div className="white-blur"></div>
-            <h3 style={{ color: '#000', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
+            <h3 style={{color: '#6E747B', fontFamily: 'Space Grotesk', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
               COMPANY SEARCH
             </h3>
 
@@ -100,7 +100,7 @@ const About = () => (
                 placeholder="Search..."
                 className="border border-gray-500 rounded w-full p-2"
               />
-              <div className=" h-10 w-19 bg-black p-1 rounded">
+              <div className=" h-10 w-19 bg-white border-gray-500 p-1 rounded">
                 <img
                   src="purplesearch.png"
                   alt="Search Icon"
@@ -135,7 +135,7 @@ const About = () => (
               />
             </motion.div>
             <div className="white-blur"></div>
-            <h3 style={{ color: '#000', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
+            <h3 style={{ color: '#6E747B', fontFamily: 'Space Grotesk', fontSize: '37px', fontWeight: 'bold', textAlign: 'center', margin: '0' }}>
               BUY SERVICES
             </h3>
 
@@ -143,7 +143,7 @@ const About = () => (
               <input
                 type="text"
                 placeholder="Search..."
-                className="border border-gray-500 rounded w-full p-2"
+                className="h-10 w-19 bg-white border-gray-500 p-1 rounded"
               />
               <div className=" h-10 w-19 bg-black p-1 rounded">
                 <img
